@@ -1,4 +1,4 @@
-# fetch-da-takehome
+# Fetch Data Analyst Take Home
 
 Please see files for the take home exercise:
 - Part I: Data exploration - see part_I_jsomers.pdf
