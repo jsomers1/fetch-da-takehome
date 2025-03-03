@@ -2,6 +2,7 @@
 -- Closed-ended questions
 -- Note - all queries assume tables have been cleaned according to the attached python notebook code and are filtered down.
 -- I ended up answering all 6 questions for completeness. 
+-- All SQL syntax is Snowflake SQL.
 
 
 -- 1. What are the top 5 brands by receipts scanned among users 21 and over?
